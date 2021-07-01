@@ -1,0 +1,10 @@
+LightHouseRes.unitypackage filter=lfs diff=lfs merge=lfs -text
+LightingBasics-master.zip filter=lfs diff=lfs merge=lfs -text
+Back_Tex.png filter=lfs diff=lfs merge=lfs -text
+Down_Tex.png filter=lfs diff=lfs merge=lfs -text
+Front_Tex.png filter=lfs diff=lfs merge=lfs -text
+Left_Tex.png filter=lfs diff=lfs merge=lfs -text
+Right_Tex.png filter=lfs diff=lfs merge=lfs -text
+Up_Tex.png filter=lfs diff=lfs merge=lfs -text
+diffuse.tga filter=lfs diff=lfs merge=lfs -text
+normal.tga filter=lfs diff=lfs merge=lfs -text
