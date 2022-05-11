@@ -5,8 +5,7 @@ Gyeonggi Game Meister High School / 2st Grade Game Engine Basics 1nd Semester Pr
 
 ## 게임 플레이 영상
 
-https://drive.google.com/drive/u/0/folders/1taDHBt44qR8D54YBhrfyQNRE1NgZVEyz
-
+https://drive.google.com/file/d/1DDFK1t_qemnSFghOgZ8VwIrDm1WB58h6/view?usp=sharing
 ### 게임 설명 
 
 ![보고서_1](https://user-images.githubusercontent.com/69913183/167889151-f8e8321d-6abc-4d6a-8195-6f819e631853.png)
